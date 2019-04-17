@@ -3,7 +3,7 @@
 Problem Statements:
 
 ## 1)Forgone Solution:
-    Someone just won the Code Jam lottery, and we owe them N jamcoins! However, when we tried to print out an oversized check, we     encountered a problem. The value of N, which is an integer, includes at least one digit that is a 4... and the 4 key on the keyboard of our oversized check printer is broken.
+   Someone just won the Code Jam lottery, and we owe them N jamcoins! However, when we tried to print out an oversized check, we     encountered a problem. The value of N, which is an integer, includes at least one digit that is a 4... and the 4 key on the keyboard of our oversized check printer is broken.
 
    Fortunately, we have a workaround: we will send our winner two checks for positive integer amounts A and B, such that neither A nor B contains any digit that is a 4, and A + B = N. Please help us find any pair of values A and B that satisfy these conditions.
 
@@ -35,18 +35,15 @@ Solving the first two test sets for this problem should get you a long way towar
 ## Sample
 
 ## Input 
- 	
+   3
+   4
+   940
+   4444
+   
 ## Output 
- 
-3
-4
-940
-4444
-
-  
-Case #1: 2 2
-Case #2: 852 88
-Case #3: 667 3777
+   Case #1: 2 2
+   Case #2: 852 88
+   Case #3: 667 3777
 
   
 In Sample Case #1, notice that A and B can be the same. The only other possible answers are 1 3 and 3 1.
