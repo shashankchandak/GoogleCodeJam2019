@@ -55,7 +55,7 @@ Solving the first two test sets for this problem should get you a long way towar
   
 In Sample Case #1, notice that A and B can be the same. The only other possible answers are 1 3 and 3 1.
 
-## 2)You Can Go Your Own Way: 
+## 2) You Can Go Your Own Way: 
    You have just entered the world's easiest maze. You start in the northwest cell of an N by N grid of unit cells, and you must reach the southeast cell. You have only two types of moves available: a unit move to the east, and a unit move to the south. You can move into any cell, but you may not make a move that would cause you to leave the grid.
 
    You are excited to be the first in the world to solve the maze, but then you see footprints. Your rival, Labyrinth Lydia, has already solved the maze before you, using the same rules described above!
