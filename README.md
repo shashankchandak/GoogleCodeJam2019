@@ -32,17 +32,24 @@ Solving the first two test sets for this problem should get you a long way towar
 ###### Test set 3 (Hidden)
 1 < N < 10100.
 
-## Sample
+## Sample:
 
-## Input 
+###### Input 
+
    3
+   
    4
+   
    940
+   
    4444
    
-## Output 
+###### Output 
+   
    Case #1: 2 2
+   
    Case #2: 852 88
+   
    Case #3: 667 3777
 
   
